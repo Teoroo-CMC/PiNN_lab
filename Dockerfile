@@ -25,7 +25,7 @@ USER root
 COPY --from=intermediate /PiNN_dev /srv/PiNN
 COPY --from=intermediate /PiNN_lab /srv/PiNN_lab
 RUN cd /srv/PiNN && pip install -e .
-RUN pip install jupyter-tensorboard tensorflow-tensorboard tensorboard
+RUN pip install jupyter-tensorboard tensorflow==1.13.1 tensorboard==1.13.1 
 RUN pip install nglview
 RUN jupyter nbextension enable --py --sys-prefix widgetsnbextension
 RUN jupyter nbextension enable nglview --py --sys-prefix
