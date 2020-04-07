@@ -1,0 +1,57 @@
+format:
+  A:
+    dtype: float32
+    shape: []
+  B:
+    dtype: float32
+    shape: []
+  C:
+    dtype: float32
+    shape: []
+  Cv:
+    dtype: float32
+    shape: []
+  G:
+    dtype: float32
+    shape: []
+  H:
+    dtype: float32
+    shape: []
+  U:
+    dtype: float32
+    shape: []
+  U0:
+    dtype: float32
+    shape: []
+  alpha:
+    dtype: float32
+    shape: []
+  coord:
+    dtype: float32
+    shape:
+    - null
+    - 3
+  elems:
+    dtype: int32
+    shape:
+    - null
+  gap:
+    dtype: float32
+    shape: []
+  homo:
+    dtype: float32
+    shape: []
+  lumo:
+    dtype: float32
+    shape: []
+  mu:
+    dtype: float32
+    shape: []
+  r2:
+    dtype: float32
+    shape: []
+  zpve:
+    dtype: float32
+    shape: []
+info:
+  n_sample: 20000
