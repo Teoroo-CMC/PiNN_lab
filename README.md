@@ -5,7 +5,7 @@ Material for running a lab session on atomic neural networks.
 ## Requirements
 
 The lab in the form of [Jupyter notebooks](https://jupyter.org/), 
-and is intened for running on [Google Colab](https://colab.research.google.com/).
+and is intended for running on [Google Colab](https://colab.research.google.com/).
 
 To run this lab you should have a modern browser, it is recommanded to run the
 labs with Chrome. You also need a Google account to use the Colab. If you prefer
@@ -19,15 +19,15 @@ your own machine.
 The lab runs on Jupyter notebooks, and you are required to do this lab by
 writing Python code. You are not required to install anything on your computer, 
 but if you do not know about Python or Jupyter notebooks, it's good that you
-read something about them before hand. The lab contains two notebooks to help
-you getting started with Python and Jupyter notebooks, you can go through them
+read something about them beforehand. The lab contains two notebooks to help
+you to get started with Python and Jupyter notebooks, you can go through them
 in advance.
 
 In addition, here's a list of resources you can read about 
 
 - This [tutorial](https://cs231n.github.io/python-numpy-tutorial/) 
   covers Python, Numpy and Matplotlib, which also runs on Colab.
-- The official documenation of [Python](https://docs.python.org/3/tutorial/),
+- The official documentation of [Python](https://docs.python.org/3/tutorial/),
   [Numpy](https://docs.scipy.org/doc/numpy/user/quickstart.html),
   [Matplotlib](https://matplotlib.org/tutorials/index.html) 
   and [TensorFlow](https://www.tensorflow.org/tutorials) include both
@@ -37,7 +37,7 @@ In addition, here's a list of resources you can read about
 
 ### Neural networks and machine learning
 
-During the lab we will go through the construction and usage of neural netwoks
+During the lab we will go through the construction and usage of neural networks
 are a regression tool. You will be guided to build a neural network from
 scratch. However, it's better if you know something about them in advance.
 
