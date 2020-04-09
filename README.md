@@ -7,7 +7,7 @@ Material for running a lab session on atomic neural networks.
 The lab in the form of [Jupyter notebooks](https://jupyter.org/), 
 and is intended for running on [Google Colab](https://colab.research.google.com/).
 
-To run this lab you should have a modern browser, it is recommanded to run the
+To run this lab you should have a modern browser, it is recommended to run the
 labs with Chrome. You also need a Google account to use the Colab. If you prefer
 not to do so, you'll need to install Jupyter notebook, Numpy and TensorFlow 2 on
 your own machine.
@@ -52,13 +52,23 @@ watch:
 | Notebook                                      | Link                                                                                                                                                                     |
 |-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1. Introduction                               | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yqshao/PiNNLab/blob/master/notebooks/1_introduction.ipynb)      |
-| 2. Python baiscs                              | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yqshao/PiNNLab/blob/master/notebooks/2_python_basics.ipynb)     |
-| 3. TensorFlow baiscs                          | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yqshao/PiNNLab/blob/master/notebooks/3_tensorflow_basics.ipynb) |
+| 2. Python basics                              | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yqshao/PiNNLab/blob/master/notebooks/2_python_basics.ipynb)     |
+| 3. TensorFlow basics                          | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yqshao/PiNNLab/blob/master/notebooks/3_tensorflow_basics.ipynb) |
 | 4. Keras models                               | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yqshao/PiNNLab/blob/master/notebooks/4_keras_models.ipynb)      |
 | 5. Atomic neural networks (descriptor based)  | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yqshao/PiNNLab/blob/master/notebooks/5_ann_bpnn.ipynb)          |
 | 6. Atomic neural networks (graph convolution) | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yqshao/PiNNLab/blob/master/notebooks/6_ann_pinet.ipynb)         |
-| 7. Traing ANN with PiNN                       | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yqshao/PiNNLab/blob/master/notebooks/7_pinn.ipynb)              |
+| 7. Training ANN with PiNN                       | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yqshao/PiNNLab/blob/master/notebooks/7_pinn.ipynb)              |
 
 
 
 
+## About the lab
+
+The lab was originally prepared by Yunqi Shao at Uppsala University as a course
+lab session for the Computational Quantum Chemistry for Molecules and Materials
+course in 2019.
+
+The author would like to acknowledge the following people for their assistance:
+- Dr. Chao Zhang, for initializing this project and helpful discussions.
+- M.Sc. Ageo Meier de Andrade, for his suggestions during the revision of the lab.
+- Participants of previous lab session, for their helpful feedback.
